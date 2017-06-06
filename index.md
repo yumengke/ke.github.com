@@ -14,7 +14,7 @@
 ###	期望薪资:	面议	
 ###	目前状况:	我目前处于离职状态，可立即上岗
 ##	自我评价
-###　　　熟练掌握HTML、CSS，JavaScript语言核心技术BOM、DOM、Ajax、JSON等,在项目实践中有弹性布局与响应式布局开发经验，熟悉常见的前端JavaScript库，如jQuery、Zepto、Swiper等，并且对nodeJS、requireJS、MVC、MVVM、模块化开发、有一定的了解，熟悉angular，Vue等以数据驱动为主的热门前端框架，并具有一定的实践经验，了解react单向数据流、和试图渲染，使用微信小程序提供的视图层描述语言WXML和WXSS，以及基于Javascript的逻辑层框架，在视图层与逻辑层间提供了数据传输和事件系统。了解mock模拟数据，工作中以尽可能简单的、高效的方式实现项目需求。
+###		熟练掌握HTML、CSS，JavaScript语言核心技术BOM、DOM、Ajax、JSON等,在项目实践中有弹性布局与响应式布局开发经验，熟悉常见的前端JavaScript库，如jQuery、Zepto、Swiper等，并且对nodeJS、requireJS、MVC、MVVM、模块化开发、有一定的了解，熟悉angular，Vue等以数据驱动为主的热门前端框架，并具有一定的实践经验，了解react单向数据流、和试图渲染，使用微信小程序提供的视图层描述语言WXML和WXSS，以及基于Javascript的逻辑层框架，在视图层与逻辑层间提供了数据传输和事件系统。了解mock模拟数据，工作中以尽可能简单的、高效的方式实现项目需求。
   
 ##	工作经历
 
